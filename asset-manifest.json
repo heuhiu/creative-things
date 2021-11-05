@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/creative-things/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/creative-things/static/js/main.6b6b4f5c.chunk.js",
-    "main.js.map": "/creative-things/static/js/main.6b6b4f5c.chunk.js.map",
+    "main.js": "/creative-things/static/js/main.9fbebf24.chunk.js",
+    "main.js.map": "/creative-things/static/js/main.9fbebf24.chunk.js.map",
     "runtime-main.js": "/creative-things/static/js/runtime-main.b8951b74.js",
     "runtime-main.js.map": "/creative-things/static/js/runtime-main.b8951b74.js.map",
     "static/js/2.a7e8d60f.chunk.js": "/creative-things/static/js/2.a7e8d60f.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b8951b74.js",
     "static/js/2.a7e8d60f.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6b6b4f5c.chunk.js"
+    "static/js/main.9fbebf24.chunk.js"
   ]
 }
